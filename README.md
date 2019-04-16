@@ -9,5 +9,6 @@
         <tr><td>2</td><td>无</td><td>3</td><td>使用Git之前所需要的最小配置</td></tr>
         <tr><td>3</td><td>无</td><td>4</td><td>创建第一个仓库并配置Local信息</td></tr>
       	<tr><td>4</td><td>无</td><td>5</td><td>通过几次commit来认识工作区和暂存区</td></tr>
+      	<tr><td>5</td><td>无</td><td>6</td><td>给文件重命名的简便方法</td></tr>
 </tbody>
 </table>
