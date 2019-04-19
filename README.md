@@ -16,5 +16,9 @@
       	<tr><td>9</td><td>无</td><td>10</td><td>commit blob tree三个对象之间的关系</td></tr>
       	<tr><td>10</td><td>无</td><td>30</td><td>注册一个GitHub账号</td></tr>
       	<tr><td>11</td><td>无</td><td>31</td><td>配置公私钥</td></tr>
+      	<tr><td>12</td><td>无</td><td>32</td><td>在GitHub上创建个人仓库</td></tr>
+      	<tr><td>13</td><td>无</td><td>41</td><td>GitHub为什么会火</td></tr>
+      	<tr><td>14</td><td>无</td><td>42</td><td>GitHub都有哪些核心功能</td></tr>
+      	<tr><td>15</td><td>无</td><td>43</td><td>怎么快速找到感兴趣的开源项目</td></tr>
 </tbody>
 </table>
