@@ -20,5 +20,7 @@
       	<tr><td>13</td><td>无</td><td>41</td><td>GitHub为什么会火</td></tr>
       	<tr><td>14</td><td>无</td><td>42</td><td>GitHub都有哪些核心功能</td></tr>
       	<tr><td>15</td><td>无</td><td>43</td><td>怎么快速找到感兴趣的开源项目</td></tr>
+      	<tr><td>16</td><td>无</td><td>11</td><td>小练习：数一数tree的个数</td></tr>
+      	<tr><td>17</td><td>无</td><td>12</td><td>分离头指针情况下的注意事项</td></tr>
 </tbody>
 </table>
