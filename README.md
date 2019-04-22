@@ -22,5 +22,9 @@
       	<tr><td>15</td><td>无</td><td>43</td><td>怎么快速找到感兴趣的开源项目</td></tr>
       	<tr><td>16</td><td>无</td><td>11</td><td>小练习：数一数tree的个数</td></tr>
       	<tr><td>17</td><td>无</td><td>12</td><td>分离头指针情况下的注意事项</td></tr>
+      	<tr><td>18</td><td>无</td><td>13</td><td>进一步理解HEAD和branch</td></tr>
+      	<tr><td>19</td><td>无</td><td>14</td><td>如何删除不需要的分支</td></tr>
+      	<tr><td>20</td><td>无</td><td>15</td><td>修改最新提交commit的message</td></tr>
+      	<tr><td>21</td><td>无</td><td>16</td><td>修改老旧commit的message</td></tr>
 </tbody>
 </table>
