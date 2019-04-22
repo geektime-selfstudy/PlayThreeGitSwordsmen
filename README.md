@@ -26,5 +26,9 @@
       	<tr><td>19</td><td>无</td><td>14</td><td>如何删除不需要的分支</td></tr>
       	<tr><td>20</td><td>无</td><td>15</td><td>修改最新提交commit的message</td></tr>
       	<tr><td>21</td><td>无</td><td>16</td><td>修改老旧commit的message</td></tr>
+      	<tr><td>22</td><td>无</td><td>17</td><td>如何把连续的多个commit整理成一个</td></tr>
+      	<tr><td>23</td><td>无</td><td>43</td><td>怎么快速找到自己感兴趣的开源项目(会使用高级搜索功能)</td></tr>
+      	<tr><td>24</td><td>无</td><td>44</td><td>如何搭建自己的blog</td></tr>
+	<tr><td>24</td><td>无</td><td>45</td><td>开源项目如何保证代码质量</td></tr>
 </tbody>
 </table>
