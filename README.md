@@ -29,6 +29,9 @@
       	<tr><td>22</td><td>无</td><td>17</td><td>如何把连续的多个commit整理成一个</td></tr>
       	<tr><td>23</td><td>无</td><td>43</td><td>怎么快速找到自己感兴趣的开源项目(会使用高级搜索功能)</td></tr>
       	<tr><td>24</td><td>无</td><td>44</td><td>如何搭建自己的blog</td></tr>
-	<tr><td>24</td><td>无</td><td>45</td><td>开源项目如何保证代码质量</td></tr>
+	<tr><td>25</td><td>无</td><td>45</td><td>开源项目如何保证代码质量</td></tr>
+	<tr><td>26</td><td>无</td><td>46</td><td><为何需要组织类型的仓库/td></tr>
+	<tr><td>27</td><td>无</td><td>47</td><td>创建团队项目</td></tr>
+	<tr><td>28</td><td>无</td><td>48</td><td>启用issue跟踪需求和任务</td></tr>
 </tbody>
 </table>
