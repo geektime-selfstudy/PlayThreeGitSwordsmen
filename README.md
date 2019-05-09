@@ -33,5 +33,6 @@
 	<tr><td>26</td><td>无</td><td>46</td><td><为何需要组织类型的仓库/td></tr>
 	<tr><td>27</td><td>无</td><td>47</td><td>创建团队项目</td></tr>
 	<tr><td>28</td><td>无</td><td>48</td><td>启用issue跟踪需求和任务</td></tr>
+	<tr><td>29</td><td>无</td><td>18</td><td>如何将间隔的几个commit整理成一个</td></tr>
 </tbody>
 </table>
